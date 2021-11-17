@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17535542-401b-4f8a-9cd4-ccbc1cf17651" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodeserver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapeandclick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scraper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lifecycle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cronlogs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cronlogs/log.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +98,7 @@
       <workItem from="1600799968542" duration="11897000" />
       <workItem from="1601924790080" duration="1466000" />
       <workItem from="1602813054499" duration="2944000" />
-      <workItem from="1637023987820" duration="19525000" />
+      <workItem from="1637023987820" duration="20320000" />
     </task>
     <servers />
   </component>
